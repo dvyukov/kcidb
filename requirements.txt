@@ -1,5 +1,6 @@
 # Pip requirements for Google Cloud Functions.
 # Must match install_requires from setup.py.
+google-api-core=1.16.0
 google-cloud-bigquery
 google-cloud-pubsub
 google-cloud-firestore
